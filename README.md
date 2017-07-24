@@ -12,4 +12,5 @@ title: AI first @ maxdome
 ---
 ```
 4. Write your content in [markdown](https://en.wikipedia.org/wiki/Markdown)
-5. Commit the file via new branch and pull request
+5. Commit the file via new branch and pull request to let someone review it before publishing
+6. https://maxdome.github.io/ will be automatically updated after merging the pull request with the new post 

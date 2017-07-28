@@ -1,3 +1,8 @@
+
+# Contributing Rules
+
+https://confluence.sim-technik.de/display/MXDSD/maxdome+Tech+Blog
+
 # How to create a post
 
 Because the blog use [jekyll](http://jekyllrb.com/) every post is just a file in the `_posts` directory.
